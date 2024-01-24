@@ -11,7 +11,7 @@
 ### Installation
 
 ```bash
-$ git clone
+$ git clone https://github.com/tymtravellr/node-api-starter.git
 $ cd nodejs-api-starter
 $ npm install
 ```
